@@ -34,7 +34,7 @@ public class Main {
 
 
 //  Exemplo de Boa Prática;
-        System.out.println(" Exemplo de Boas Práticas; ");
+//        System.out.println(" Exemplo de Boas Práticas; ");
         double salarioMensal = 11893.58d;
         double mediaSalario = 10500d;
 
